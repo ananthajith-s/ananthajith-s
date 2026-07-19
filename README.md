@@ -65,7 +65,7 @@ Handled the technical setup and deployment for a men's clothing brand based in C
 <br />
 
 ```yaml
-project: Trip Folio
+project: Trip Folio (Final Year College Project)
 systems: Public Bus Transportation Management System
 timeline: Oct. 2024 – Feb. 2025
 ```

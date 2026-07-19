@@ -49,7 +49,7 @@ impact: Serving 400+ students & handling 150+ concurrent lifecycle operations
 ```
 🔗 Live Deployment: [badriyya.org](https://badriyya.org/)
 
-Designed and built a 45-table schema for complete student lifecycle tracking (promotions, graduations, multi-term fees). Implemented a robust role-based REST API protected by session authentication and secure PII encryption utilizing AES-256-CBC.
+Designed and built a 45+ table schema for complete student lifecycle tracking (promotions, graduations, multi-term fees). Implemented a robust role-based REST API protected by session authentication and secure PII encryption utilizing AES-256-CBC.
 
 <br />
 

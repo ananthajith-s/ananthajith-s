@@ -34,7 +34,6 @@
   <!-- Frontend & Tools -->
   <img src="https://img.shields.io/badge/TailwindCSS-23272A?style=for-the-badge&logo=tailwind-css&logoColor=00F2FE" />
   <img src="https://img.shields.io/badge/EJS-23272A?style=for-the-badge&logo=ejs&logoColor=00F2FE" />
-  <img src="https://img.shields.io/badge/Grafana-23272A?style=for-the-badge&logo=grafana&logoColor=00F2FE" />
   <img src="https://img.shields.io/badge/NPM-23272A?style=for-the-badge&logo=npm&logoColor=00F2FE" />
 </div>
 

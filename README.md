@@ -53,7 +53,7 @@ Designed and built a 45+ table schema for complete student lifecycle tracking (p
 <br />
 
 ```yaml
-project: Stitch Official - Brand Launching Page
+project: STITCH.IN - Brand Launching Page
 role: Developer (Setup & Deployment)
 scope: Single-page React application optimized for early user acquisition
 ```

@@ -22,6 +22,7 @@
 <div align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=00F2FE" />
+  <img src="https://img.shields.io/badge/TypeScript-23272A?style=for-the-badge&logo=typescript&logoColor=00F2FE" />
   <img src="https://img.shields.io/badge/Python-23272A?style=for-the-badge&logo=python&logoColor=00F2FE" />  
   <br />
   <!-- Backend & DB -->
@@ -29,6 +30,7 @@
   <img src="https://img.shields.io/badge/Express.js-23272A?style=for-the-badge&logo=express&logoColor=00F2FE" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00F2FE" />
   <img src="https://img.shields.io/badge/MySQL-23272A?style=for-the-badge&logo=mysql&logoColor=00F2FE" />
+  <img src="https://img.shields.io/badge/Firebase-23272A?style=for-the-badge&logo=firebase&logoColor=00F2FE" />
   <br />
   <!-- Frontend & Tools -->
   <img src="https://img.shields.io/badge/TailwindCSS-23272A?style=for-the-badge&logo=tailwind-css&logoColor=00F2FE" />
@@ -48,6 +50,17 @@ impact: Serving 400+ students & handling 150+ concurrent lifecycle operations
 🔗 Live Deployment: [badriyya.org](https://badriyya.org/)
 
 Designed and built a 45+ table schema for complete student lifecycle tracking (promotions, graduations, multi-term fees). Implemented a robust role-based REST API protected by session authentication and secure PII encryption utilizing AES-256-CBC.
+
+<br />
+
+```yaml
+project: Badriyya Academy - Learning Platform Backend
+role: Backend Developer
+impact: Passwordless biometric login, secure audio streaming & encrypted student data
+```
+🔗 Live Deployment: [academy.badriyya.org](https://academy.badriyya.org/)
+
+Built a modular REST API with Node.js and TypeScript, using a generic Firestore repository layer with atomic transactions. Integrated FIDO2 and WebAuthn (SimpleWebAuthn) for passwordless biometric login with role-based access control. Engineered an audio streaming pipeline with FFmpeg chunking, HTTP 206 Range requests and hotlink protection. Secured student data with AES-256-GCM encryption and constant-time HMAC comparisons, and added idempotency middleware to prevent duplicate submissions during network retries.
 
 <br />
 

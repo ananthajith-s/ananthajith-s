@@ -85,4 +85,3 @@ Trained an LSTM neural network model on 30 days of historical passenger counts f
  
 [![Email](https://img.shields.io/badge/EMAIL-23272A?style=for-the-badge&logo=gmail&logoColor=00F2FE)](mailto:ananthajith.prof@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-23272A?style=for-the-badge&logo=linkedin&logoColor=00F2FE&logoProvider=simple-icons)](https://linkedin.com/in/ananthajith-s)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-0f1419?style=for-the-badge&logo=instagram&logoColor=00F2FE)](https://www.instagram.com/anantha.jith/)

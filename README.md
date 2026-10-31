@@ -34,8 +34,8 @@
   <br />
   <!-- Frontend & Tools -->
   <img src="https://img.shields.io/badge/TailwindCSS-23272A?style=for-the-badge&logo=tailwind-css&logoColor=00F2FE" />
-  <img src="https://img.shields.io/badge/EJS-23272A?style=for-the-badge&logo=ejs&logoColor=00F2FE" />
-  <img src="https://img.shields.io/badge/NPM-23272A?style=for-the-badge&logo=npm&logoColor=00F2FE" />
+  <!--<img src="https://img.shields.io/badge/EJS-23272A?style=for-the-badge&logo=ejs&logoColor=00F2FE" />
+  <img src="https://img.shields.io/badge/NPM-23272A?style=for-the-badge&logo=npm&logoColor=00F2FE" /> -->
 </div>
 
 ---
@@ -74,14 +74,14 @@ scope: Single-page React application optimized for early user acquisition
 Handled the technical setup and deployment for a men's clothing brand based in Calicut. Set up the initial React project structure, configured the build settings, and managed the deployment pipeline on Netlify. The site serves as a "Launching Soon" page featuring their products, contact links, and a direct shopping link to their WhatsApp Business account.
 
 <br />
-
+<!--
 ```yaml
 project: Trip Folio (Final Year College Project)
 systems: Public Bus Transportation Management System
 timeline: Oct. 2024 – Feb. 2025
 ```
-Trained an LSTM neural network model on 30 days of historical passenger counts from MySQL to predict next-day demand and recommend optimal bus capacity assignments for each route. Built clean REST APIs to expose these capacity predictions to mobile and web clients, seamlessly integrating Google Maps for real-time bus tracking.
+Trained an LSTM neural network model on 30 days of historical passenger counts from MySQL to predict next-day demand and recommend optimal bus capacity assignments for each route. Built clean REST APIs to expose these capacity predictions to mobile and web clients, seamlessly integrating Google Maps for real-time bus tracking. -->
 ## Connect
  
 [![Email](https://img.shields.io/badge/EMAIL-23272A?style=for-the-badge&logo=gmail&logoColor=00F2FE)](mailto:ananthajith.prof@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-23272A?style=for-the-badge&logo=linkedin&logoColor=00F2FE&logoProvider=simple-icons)](https://linkedin.com/in/ananthajith-s)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-23272A?style=for-the-badge&logo=linkedin&logoColor=00F2FE&logoProvider=simple-icons)](https://linkedin.com/in/ananthajith-s) 

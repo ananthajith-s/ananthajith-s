@@ -23,12 +23,12 @@
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=00F2FE" />
   <img src="https://img.shields.io/badge/TypeScript-23272A?style=for-the-badge&logo=typescript&logoColor=00F2FE" />
-  <img src="https://img.shields.io/badge/Python-23272A?style=for-the-badge&logo=python&logoColor=00F2FE" />  
+  <!--<img src="https://img.shields.io/badge/Python-23272A?style=for-the-badge&logo=python&logoColor=00F2FE" />  -->
   <br />
   <!-- Backend & DB -->
   <img src="https://img.shields.io/badge/Node.js-23272A?style=for-the-badge&logo=node.js&logoColor=00F2FE" />
   <img src="https://img.shields.io/badge/Express.js-23272A?style=for-the-badge&logo=express&logoColor=00F2FE" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00F2FE" />
+  <!--<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00F2FE" />-->
   <img src="https://img.shields.io/badge/MySQL-23272A?style=for-the-badge&logo=mysql&logoColor=00F2FE" />
   <img src="https://img.shields.io/badge/Firebase-23272A?style=for-the-badge&logo=firebase&logoColor=00F2FE" />
   <br />
